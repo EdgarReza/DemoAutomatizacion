@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Test>
+<test name="Test01">
+<classes>
+<class name="demo.santander.test.Login" />
+</classes>
+</test>
+</suite>

@@ -8,10 +8,11 @@ import org.testng.annotations.Test;
 
 import demo.mtp.Pages.ActivarCuenta;
 import demo.mtp.Pages.ConsultaDeSaldos;
-import demo.mtp.Pages.Cuentas;
-import demo.mtp.Pages.LoginPage;
 import demo.mtp.SetUp.SetUp;
 import demo.mtp.Utility.Utility;
+import demo.mtp.Pages.*;
+
+
 import junit.framework.Assert;
 
 public class Login {
