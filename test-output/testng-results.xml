@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="156995" started-at="2018-03-21T15:28:04Z" finished-at="2018-03-21T15:30:41Z">
+    <groups>
+    </groups>
+    <test name="Test_Activacion" duration-ms="82856" started-at="2018-03-21T15:28:04Z" finished-at="2018-03-21T15:29:27Z">
+      <class name="demo.santander.test.Activacion_Cuenta">
+        <test-method status="PASS" signature="Inicio()[pri:0, instance:demo.santander.test.Activacion_Cuenta@754ba872]" name="Inicio" is-config="true" duration-ms="39315" started-at="2018-03-21T09:28:04Z" finished-at="2018-03-21T09:28:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Inicio -->
+        <test-method status="PASS" signature="testActivarCuenta()[pri:0, instance:demo.santander.test.Activacion_Cuenta@754ba872]" name="testActivarCuenta" duration-ms="36624" started-at="2018-03-21T09:28:44Z" finished-at="2018-03-21T09:29:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testActivarCuenta -->
+        <test-method status="PASS" signature="terminar()[pri:0, instance:demo.santander.test.Activacion_Cuenta@754ba872]" name="terminar" is-config="true" duration-ms="6887" started-at="2018-03-21T09:29:20Z" finished-at="2018-03-21T09:29:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminar -->
+      </class> <!-- demo.santander.test.Activacion_Cuenta -->
+    </test> <!-- Test_Activacion -->
+    <test name="Test_Login" duration-ms="74070" started-at="2018-03-21T15:29:27Z" finished-at="2018-03-21T15:30:41Z">
+      <class name="demo.santander.test.Login">
+        <test-method status="PASS" signature="Inicio()[pri:0, instance:demo.santander.test.Login@3f49dace]" name="Inicio" is-config="true" duration-ms="39821" started-at="2018-03-21T09:29:27Z" finished-at="2018-03-21T09:30:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Inicio -->
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:demo.santander.test.Login@3f49dace]" name="testLogin" duration-ms="34246" started-at="2018-03-21T09:30:07Z" finished-at="2018-03-21T09:30:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="terminar()[pri:0, instance:demo.santander.test.Login@3f49dace]" name="terminar" is-config="true" duration-ms="0" started-at="2018-03-21T09:30:41Z" finished-at="2018-03-21T09:30:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminar -->
+      </class> <!-- demo.santander.test.Login -->
+    </test> <!-- Test_Login -->
+  </suite> <!-- Suite -->
+</testng-results>
